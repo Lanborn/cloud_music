@@ -1,5 +1,10 @@
 # player
 
+## 技术栈
+
+### 前端
+Vue + Element-UI + Axios + Vue-Rouer + Vue-Cli
+
 ## Project接口
 
 > NeteaseCloudMusicApi

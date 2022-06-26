@@ -6,7 +6,7 @@
 
 为了弥补这个遗憾，就用 Vue 全家桶模仿 mac 客户端的 UI 实现了一个，欢迎提出意见和 star🌟~
 
-💐[预览地址](http://lanboc.cn:8080)
+💐[预览地址](http://netmusical.lanboc.cn/discovery)
 ## 技术栈
 
 ### 前端
